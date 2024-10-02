@@ -1,0 +1,10 @@
+{
+  "node_version": "20",
+  "dependencies": [
+    "."
+  ],
+  "graphs": {
+    "sql": "./apps/agents/src/graph.ts:graph"
+  },
+  "env": ".env"
+}
